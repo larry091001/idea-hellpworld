@@ -76,6 +76,7 @@ public class Producer extends Person{
         }
         //xxx.null
         if (list == null) {
+            System.out.println("==========");
         }
     }
 
